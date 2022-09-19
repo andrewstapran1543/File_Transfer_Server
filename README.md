@@ -39,10 +39,10 @@ pip3 install hashlib
 <li>Exomes_GenoLab - экзомное секвенирование (нa GenoLab)</li>
 <li>NIPT - неинвазивная пренатальная диагностика</li>
 <li>Other_divisions - данные из других отделов</li><br><br>
-![dropdown](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/dropdown.png)<br><br>
+![my_dropdown](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/dropdown.png)<br><br>
 Наконец, нажимаем на кнопку "Trasfer the files" - появится окошко с предупреждением. Нужно убедиться, что выбран правильный тип данных - если все так, нажимаем кнопку "Yes":<br><br>
-![warning](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/warning.png)<br><br>
+![my_warning](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/warning.png)<br><br>
 На экране отобразится название перемещаемого файла, а также начнет заполняться progress bar, показывающий успешность переноса файла. Под названием файла отображается объем уже перенесенной на сервер информации и общий размер файла (в Mb):<br><br>
-![transfer](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/transfer.png)<br><br>
+![my_transfer](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/transfer.png)<br><br>
 Если трансфер файлов успешно завершен - программа выдаст надпись заглавным буквами и жирным шрифтом: "ФАЙЛЫ БЫЛИ УСПЕШНО ПЕРЕМЕЩЕНЫ НА СЕРВЕР". Если содержимое исходного файла на локальном компьютере совпадает с содержимым перенесенного на сервер файла, под первой надписью появится: "HASH-СУММЫ ФАЙЛОВ СОВПАДАЮТ". Наконец, progress bar полностью заполнится, что означает завершение переноса файла с локального компьютера на сервер:<br><br>
-![checkings](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/checkings.png)<br><br>
+![my_checkings](https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/checkings.png)<br><br>
