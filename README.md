@@ -45,10 +45,10 @@ pip3 install hashlib
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/warning.png"><br><br>
 ### Примечание
 В случае, если выбранным типом данных является Exomes_GenoLab, после выбора опции "Yes" в окошке с предупреждением, появится новое окно, в котором необходимо выбрать тип экзомных данных, полученных с Генолаба. Они могут быть четырех видов:
-<li>HCE</li>
-<li>IDTML</li>
-<li>TE2</li>
-<li>IDTERP</li><br><br>
+* HCE
+* IDTML
+* TE2
+* IDTERP<br><br>
 Выбираем нужный тип данных, нажимаем на кнопку - начинается выгрузка файлов<br><br>
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/exomes.png"><br><br>
 На экране отобразится название перемещаемого файла, а также начнет заполняться progress bar, показывающий успешность переноса файла.<br>Под названием файла отображается объем уже перенесенной на сервер информации и общий размер файла (в Mb):<br><br>
