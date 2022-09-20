@@ -43,7 +43,6 @@ pip3 install hashlib
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/dropdown.png"><br><br>
 Наконец, нажимаем на кнопку "Trasfer the files" - появится окошко с предупреждением. Нужно убедиться, что выбран правильный тип данных - если все так, нажимаем кнопку "Yes":<br><br>
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/warning.png"><br><br>
-### Примечание
 В случае, если выбранным типом данных является Exomes_GenoLab, после выбора опции "Yes" в окошке с предупреждением, появится новое окно, в котором необходимо выбрать тип экзомных данных, полученных с Генолаба. Они могут быть четырех видов:
 * HCE
 * IDTML
