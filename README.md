@@ -35,11 +35,11 @@ pip3 install hashlib
 Выбрав нужную папку, нажимаем "OK" - путь до папки будет отображен вместо надписи "Enter path to folder":<br><br>
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/file_path.png"><br><br>
 Затем выбираем нужный тип данных из dropdown листа:
-<li>CMA - хромосомный микроматричный анализ</li>
-<li>Exomes_GenoLab - экзомное секвенирование (нa GenoLab)</li>
-<li>NIPT - неинвазивная пренатальная диагностика</li>
-<li>PAX - предиктивный анализ</li>
-<li>Paternity - анализ на отцовство</li><br><br>
+* CMA - хромосомный микроматричный анализ
+* Exomes_GenoLab - экзомное секвенирование (нa GenoLab)
+* NIPT - неинвазивная пренатальная диагностика
+* PAX - предиктивный анализ
+* Paternity - анализ на отцовство<br><br>
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/dropdown.png"><br><br>
 Наконец, нажимаем на кнопку "Trasfer the files" - появится окошко с предупреждением. Нужно убедиться, что выбран правильный тип данных - если все так, нажимаем кнопку "Yes":<br><br>
 <img src="https://github.com/andrewstapran1543/File_Transfer_Server/blob/main/warning.png"><br><br>
